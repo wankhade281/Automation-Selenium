@@ -25,4 +25,4 @@ window_after = driver.window_handles[1]  # To switch to the newly open window
 driver.switch_to_window(window_after)  #
 print("current url is--> --> --> --> -->",driver.current_url)
 driver.implicitly_wait(20)
-driver.find_element_by_xpath("/html/body/viewer-pdf-toolbar//div[1]/div[1]/div[2]/cr-icon-button[2]").click()
+driver.find_element_by_id("download").click()
