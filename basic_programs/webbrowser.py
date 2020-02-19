@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 
-driver = webdriver.Firefox()
+driver = webdriver.Firefox('/home/admin1/Downloads/geckodriver-v0.26.0-linux64')
 driver.get("http://www.python.org")
 print(driver.title)
 print(driver.current_url)
