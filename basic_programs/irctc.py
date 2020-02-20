@@ -34,8 +34,8 @@ driver.close()
 
 
 # import testcases
-# from selenium import webdriver
-# from selenium.webdriver.common.keys import Keys
+# from automation import webdriver
+# from automation.webdriver.common.keys import Keys
 #
 #
 # class PythonOrgSearch(testcases.TestCase):
