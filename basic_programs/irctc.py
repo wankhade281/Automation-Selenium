@@ -33,12 +33,12 @@ driver.close()
 
 
 
-# import testcases
+# import unittestpackage
 # from automation import webdriver
 # from automation.webdriver.common.keys import Keys
 #
 #
-# class PythonOrgSearch(testcases.TestCase):
+# class PythonOrgSearch(unittestpackage.TestCase):
 #
 #     def setUp(self):
 #         self.driver = webdriver.Firefox()
@@ -57,4 +57,4 @@ driver.close()
 #
 #
 # if __name__ == "__main__":
-#     testcases.main()
+#     unittestpackage.main()

@@ -2,9 +2,14 @@
   <dictionary name="admin1">
     <words>
       <w>aadhaar</w>
+      <w>byclassname</w>
       <w>chetan</w>
+      <w>classname</w>
       <w>conftest</w>
+      <w>elebyclassname</w>
+      <w>elebytagname</w>
       <w>irctc</w>
+      <w>linktext</w>
       <w>pytest</w>
       <w>somepath</w>
       <w>xlsx</w>
