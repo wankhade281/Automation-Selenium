@@ -1,3 +1,5 @@
 venv
 env-selenium
 pyrobot
+.pytest_cache
+.env
