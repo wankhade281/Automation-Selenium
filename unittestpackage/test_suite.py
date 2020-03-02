@@ -2,7 +2,7 @@ import unittest
 from unittestpackage.test1 import Test
 from unittestpackage.test_assertion import TestAssertion
 
-#  get all test functions from Test and TestAssertioncd
+#  get all test functions from Test and TestAssertion
 tc1 = unittest.TestLoader().loadTestsFromTestCase(Test)
 tc2 = unittest.TestLoader().loadTestsFromTestCase(TestAssertion)
 
